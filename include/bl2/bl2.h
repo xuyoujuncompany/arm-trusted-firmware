@@ -6,6 +6,8 @@
 
 #ifndef BL2_H
 #define BL2_H
+test
+
 
 void bl2_main(void);
 
